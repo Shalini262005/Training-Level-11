@@ -16,4 +16,4 @@ Task 5: CTE and Win5ow Functions
 
 Task 6: MongoDB CR 6 + Text Indexing
 
-Task 5: MongoDB Agg7egations
+Task 7: MongoDB Agg7egations
